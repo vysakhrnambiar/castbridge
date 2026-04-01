@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SonosMirror" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1DB954</item>
+        <item name="colorPrimaryVariant">#1AA34A</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#1DB954</item>
+    </style>
+</resources>

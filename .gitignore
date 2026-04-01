@@ -1,0 +1,41 @@
+# Credentials
+config.json
+
+# Downloads and cache
+downloads/
+cache/
+*.mp3
+*.mkv
+*.mp4
+*.avi
+*.ts
+*_hls/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android build
+android/app/build/
+android/.gradle/
+android/.kotlin/
+android/local.properties
+
+# Releases (uploaded to GitHub Releases, not committed)
+releases/*.exe
+releases/*.apk

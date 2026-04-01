@@ -1,0 +1,14 @@
+{
+  "iptv_server": "http://your-iptv-provider.com",
+  "iptv_username": "your_username",
+  "iptv_password": "your_password",
+  "web_port": 8080,
+  "audio_port": 8766,
+  "ffmpeg_path": "ffmpeg",
+  "default_sonos_ip": "",
+  "default_sonos_name": "",
+  "default_chromecast_name": "",
+  "download_dir": "downloads",
+  "cache_dir": "cache",
+  "default_volume": 60
+}

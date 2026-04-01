@@ -87,7 +87,7 @@ A standalone Android app that captures any audio playing on your phone and strea
 ## Quick Start
 
 ### Option 1: Download the EXE (Windows)
-1. Download `CastBridge.exe` from [Releases](releases/)
+1. Download `CastBridge.exe` from [Releases](https://github.com/vysakhrnambiar/castbridge/releases)
 2. Double-click to run — a system tray icon appears
 3. Open `http://localhost:8080` in your browser (or from your phone on the same WiFi)
 4. Go to Settings, enter your IPTV credentials
@@ -114,7 +114,7 @@ python src/relay_server.py
 Open `http://localhost:8080` in your browser. That's it.
 
 ### Option 3: Android App (Sonos Audio Mirror)
-1. Download `SonosAudioMirror.apk` from [Releases](releases/)
+1. Download `SonosAudioMirror.apk` from [Releases](https://github.com/vysakhrnambiar/castbridge/releases)
 2. Install on your Android phone (Android 10+)
 3. Open the app, it discovers your Sonos speakers
 4. Select a speaker, tap "Stream"

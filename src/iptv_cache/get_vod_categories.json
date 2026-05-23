@@ -1,0 +1,772 @@
+[
+ {
+  "category_id": "1235",
+  "category_name": "VOD | MULTI-LANG - NEW RELEASES",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1357",
+  "category_name": "VOD | MULTI-LANG 2020 AND BEYOND",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1354",
+  "category_name": "VOD | MULTI-LANG 2010 TO 2019",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1356",
+  "category_name": "VOD | MULTI-LANG 2000 TO 2009",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1355",
+  "category_name": "VOD | MULTI-LANG BEFORE 2000",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1231",
+  "category_name": "VOD | MULTI-LANG FORMULA 1",
+  "parent_id": 0
+ },
+ {
+  "category_id": "266",
+  "category_name": "VOD | EN - LATEST MOVIES",
+  "parent_id": 0
+ },
+ {
+  "category_id": "437",
+  "category_name": "VOD | IMDB TOP 500",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1474",
+  "category_name": "VOD | EN - MOVIES 4K",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1578",
+  "category_name": "VOD | EN - NETFLIX MOVIES 4K",
+  "parent_id": 0
+ },
+ {
+  "category_id": "422",
+  "category_name": "VOD | EN - NETFLIX",
+  "parent_id": 0
+ },
+ {
+  "category_id": "423",
+  "category_name": "VOD | EN - DISNEY+",
+  "parent_id": 0
+ },
+ {
+  "category_id": "885",
+  "category_name": "VOD | EN - DISNEY SHORTS",
+  "parent_id": 0
+ },
+ {
+  "category_id": "428",
+  "category_name": "VOD | EN - ANIME",
+  "parent_id": 0
+ },
+ {
+  "category_id": "476",
+  "category_name": "VOD | EN - MARVEL",
+  "parent_id": 0
+ },
+ {
+  "category_id": "480",
+  "category_name": "VOD | EN - DC",
+  "parent_id": 0
+ },
+ {
+  "category_id": "882",
+  "category_name": "VOD | EN - HBO - AMAZON PRIME",
+  "parent_id": 0
+ },
+ {
+  "category_id": "903",
+  "category_name": "VOD | EN - DRAMA & ROMANCE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "901",
+  "category_name": "VOD | EN - COMEDY",
+  "parent_id": 0
+ },
+ {
+  "category_id": "880",
+  "category_name": "VOD | EN - KIDS & FAMILY",
+  "parent_id": 0
+ },
+ {
+  "category_id": "874",
+  "category_name": "VOD | EN - CLASSICS",
+  "parent_id": 0
+ },
+ {
+  "category_id": "879",
+  "category_name": "VOD | EN - CHRISTMAS",
+  "parent_id": 0
+ },
+ {
+  "category_id": "892",
+  "category_name": "VOD | EN - ACTION & WAR",
+  "parent_id": 0
+ },
+ {
+  "category_id": "902",
+  "category_name": "VOD | EN - CRIME & MYSTERY",
+  "parent_id": 0
+ },
+ {
+  "category_id": "873",
+  "category_name": "VOD | EN - THRILLER & HORROR",
+  "parent_id": 0
+ },
+ {
+  "category_id": "907",
+  "category_name": "VOD | EN - SCIENCE FICTION",
+  "parent_id": 0
+ },
+ {
+  "category_id": "900",
+  "category_name": "VOD | EN - ADVENTURE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "881",
+  "category_name": "VOD | EN - WESTERN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "888",
+  "category_name": "VOD | EN - HISTORY & DOCUMENTARY",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1280",
+  "category_name": "VOD | EN - THEATRE & SPECTACLE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "889",
+  "category_name": "VOD | EN - ASIAN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "876",
+  "category_name": "VOD | EN - Apple TV+",
+  "parent_id": 0
+ },
+ {
+  "category_id": "890",
+  "category_name": "VOD | EN - PARAMOUNT+",
+  "parent_id": 0
+ },
+ {
+  "category_id": "571",
+  "category_name": "VOD | SPORTS",
+  "parent_id": 0
+ },
+ {
+  "category_id": "361",
+  "category_name": "VOD | STAND UP COMEDY",
+  "parent_id": 0
+ },
+ {
+  "category_id": "390",
+  "category_name": "VOD | FR - LATEST MOVIES",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1473",
+  "category_name": "VOD | FR - FILMS 4K",
+  "parent_id": 0
+ },
+ {
+  "category_id": "432",
+  "category_name": "VOD | FR - NETFLIX",
+  "parent_id": 0
+ },
+ {
+  "category_id": "440",
+  "category_name": "VOD | FR - DISNEY+",
+  "parent_id": 0
+ },
+ {
+  "category_id": "485",
+  "category_name": "VOD | FR - ANIME & MANGA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "477",
+  "category_name": "VOD | FR - MARVEL",
+  "parent_id": 0
+ },
+ {
+  "category_id": "479",
+  "category_name": "VOD | FR - DC",
+  "parent_id": 0
+ },
+ {
+  "category_id": "854",
+  "category_name": "VOD | FR - AMAZON PRIME",
+  "parent_id": 0
+ },
+ {
+  "category_id": "847",
+  "category_name": "VOD | FR - PARAMOUNT+",
+  "parent_id": 0
+ },
+ {
+  "category_id": "842",
+  "category_name": "VOD | FR - DRAMA & ROMANCE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "855",
+  "category_name": "VOD | FR - COMÉDIE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "843",
+  "category_name": "VOD | FR - FAMILLE & ENFANTS",
+  "parent_id": 0
+ },
+ {
+  "category_id": "853",
+  "category_name": "VOD | FR - CLASSIQUES",
+  "parent_id": 0
+ },
+ {
+  "category_id": "850",
+  "category_name": "VOD | FR - NOËL",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1281",
+  "category_name": "VOD | FR - ACTION & WAR",
+  "parent_id": 0
+ },
+ {
+  "category_id": "867",
+  "category_name": "VOD | FR - CRIME & MAFIA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "856",
+  "category_name": "VOD | FR - HORREUR & THRILLER",
+  "parent_id": 0
+ },
+ {
+  "category_id": "868",
+  "category_name": "VOD | FR - SCI-FI & FANTASTIQUE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "858",
+  "category_name": "VOD | FR - AVENTURE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "866",
+  "category_name": "VOD | FR - WESTERN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "860",
+  "category_name": "VOD | FR - HISTOIRE & DOCUMENTAIRES",
+  "parent_id": 0
+ },
+ {
+  "category_id": "585",
+  "category_name": "VOD | FR - THÉÂTRE & SPECTACLE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "848",
+  "category_name": "VOD | FR - CONCERT & MUSIQUE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "862",
+  "category_name": "VOD | FR - HBO",
+  "parent_id": 0
+ },
+ {
+  "category_id": "852",
+  "category_name": "VOD | FR - Apple TV+",
+  "parent_id": 0
+ },
+ {
+  "category_id": "859",
+  "category_name": "VOD | FR - TÉLÉFILM",
+  "parent_id": 0
+ },
+ {
+  "category_id": "833",
+  "category_name": "VOD | FR - FILMS CANAL+",
+  "parent_id": 0
+ },
+ {
+  "category_id": "265",
+  "category_name": "VOD | SPANISH",
+  "parent_id": 0
+ },
+ {
+  "category_id": "587",
+  "category_name": "VOD | NETHERLAND",
+  "parent_id": 0
+ },
+ {
+  "category_id": "429",
+  "category_name": "VOD | ITALY",
+  "parent_id": 0
+ },
+ {
+  "category_id": "268",
+  "category_name": "VOD | PORTUGAL",
+  "parent_id": 0
+ },
+ {
+  "category_id": "586",
+  "category_name": "VOD | GREECE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1380",
+  "category_name": "VOD | FILMAT SHQIPTAR [ALB]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1377",
+  "category_name": "VOD | MË TE REJAT [ALB]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "352",
+  "category_name": "VOD | ALBANIA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1378",
+  "category_name": "VOD | PËR FËMIJË [ALB]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1446",
+  "category_name": "VOD | ISLAM [ALB]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "435",
+  "category_name": "VOD | EX-YU",
+  "parent_id": 0
+ },
+ {
+  "category_id": "434",
+  "category_name": "VOD | Polish",
+  "parent_id": 0
+ },
+ {
+  "category_id": "391",
+  "category_name": "VOD | DENMARK",
+  "parent_id": 0
+ },
+ {
+  "category_id": "402",
+  "category_name": "VOD | SWEDEN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1451",
+  "category_name": "VOD | SC - NORDIC",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1453",
+  "category_name": "VOD | SC - NORDIC KIDS",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1212",
+  "category_name": "VOD | BULGARIAN MOVIES [BG]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1214",
+  "category_name": "VOD | ROMANIA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "431",
+  "category_name": "VOD | RUSSIA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "144",
+  "category_name": "VOD | TURKISH",
+  "parent_id": 0
+ },
+ {
+  "category_id": "110",
+  "category_name": "VOD | ARABIC",
+  "parent_id": 0
+ },
+ {
+  "category_id": "128",
+  "category_name": "VOD | EN - ARABIC",
+  "parent_id": 0
+ },
+ {
+  "category_id": "486",
+  "category_name": "VOD | AR - أنيمي",
+  "parent_id": 0
+ },
+ {
+  "category_id": "262",
+  "category_name": "VOD | ARABIC [ASIA]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1410",
+  "category_name": "VOD | AR - القرآن الكريم",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1448",
+  "category_name": "VOD | AR - أفلام عربية جديدة",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1425",
+  "category_name": "VOD | AR - أفلام عربية 2020/2024",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1424",
+  "category_name": "VOD | AR - أفلام عربية 2000/2019",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1428",
+  "category_name": "VOD | AR - أفلام كرتون زمان",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1429",
+  "category_name": "VOD | AR - أفلام عربية كلاسيكية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1436",
+  "category_name": "VOD | AR - مسرحيات عربية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1439",
+  "category_name": "VOD | AR - أفلام تاريخية/إسلامية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1427",
+  "category_name": "VOD | AR - أفلام عائلي/اطفال",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1411",
+  "category_name": "VOD | AR - أفلام اجنبية جديدة",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1415",
+  "category_name": "VOD | AR - أفلام نتفليكس",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1416",
+  "category_name": "VOD | AR - أفلام مارفيل",
+  "parent_id": 1438
+ },
+ {
+  "category_id": "1450",
+  "category_name": "VOD | AR - DC أفلام ",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1420",
+  "category_name": "VOD | AR - أفلام اجنبي دراما",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1418",
+  "category_name": "VOD | AR - أفلام اجنبي اكشن",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1455",
+  "category_name": "VOD | AR - أفلام مغامرة/فنتازيا",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1417",
+  "category_name": "VOD | AR - أفلام اجنبي رعب",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1421",
+  "category_name": "VOD | AR - أفلام اجنبي حرب",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1419",
+  "category_name": "VOD | AR - أفلام اجنبي رومانسي",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1422",
+  "category_name": "VOD | AR - أفلام اجنبي كوميدي",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1437",
+  "category_name": "VOD | AR - أفلام اجنبي وثائقية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1423",
+  "category_name": "VOD | AR - أفلام اجنبية اسيويه",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1435",
+  "category_name": "VOD | AR - أفلام تركية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1430",
+  "category_name": "VOD | AR - أفلام هندية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1431",
+  "category_name": "VOD | AR - أفلام مغربية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1433",
+  "category_name": "VOD | AR - أفلام أمازيغية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1434",
+  "category_name": "VOD | AR - أفلام جزائرية",
+  "parent_id": 0
+ },
+ {
+  "category_id": "272",
+  "category_name": "VOD | AFRICA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1208",
+  "category_name": "VOD | AFRICA-SOMALI MOVIES",
+  "parent_id": 0
+ },
+ {
+  "category_id": "147",
+  "category_name": "VOD | BOLLYWOOD",
+  "parent_id": 0
+ },
+ {
+  "category_id": "362",
+  "category_name": "VOD | SOUTH INDIAN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1110",
+  "category_name": "VOD | INDIA EN [IN]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "575",
+  "category_name": "VOD | IN | MALAYALAM",
+  "parent_id": 0
+ },
+ {
+  "category_id": "576",
+  "category_name": "VOD | IN | TAMIL",
+  "parent_id": 0
+ },
+ {
+  "category_id": "577",
+  "category_name": "VOD | IN | TELUGU",
+  "parent_id": 0
+ },
+ {
+  "category_id": "578",
+  "category_name": "VOD | IN | KANNADA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "416",
+  "category_name": "VOD | PUNJABI",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1246",
+  "category_name": "VOD | PAKISTAN |PK|",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1243",
+  "category_name": "VOD | KURDISH MOVIES (BADINI) [KU]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1242",
+  "category_name": "VOD | KURDISH ANIMATION (BADINI) [KU]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1244",
+  "category_name": "VOD | KURDISH MOVIES (SORANI) [KU]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "444",
+  "category_name": "VOD | PERSIAN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "446",
+  "category_name": "VOD | LATINO",
+  "parent_id": 0
+ },
+ {
+  "category_id": "528",
+  "category_name": "VOD | BRAZIL",
+  "parent_id": 0
+ },
+ {
+  "category_id": "595",
+  "category_name": "VOD | CHINA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1220",
+  "category_name": "VOD | KOREA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1219",
+  "category_name": "VOD | JAPAN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1222",
+  "category_name": "VOD | INDONESIA",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1216",
+  "category_name": "VOD | MALAYSIA [MY]",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1221",
+  "category_name": "VOD | THAILAND ",
+  "parent_id": 0
+ },
+ {
+  "category_id": "1218",
+  "category_name": "VOD | PHILIPPINES",
+  "parent_id": 0
+ },
+ {
+  "category_id": "834",
+  "category_name": "VOD | FR - QUÉBEC",
+  "parent_id": 0
+ },
+ {
+  "category_id": "916",
+  "category_name": "VOD | DE - NEUE FILME",
+  "parent_id": 0
+ },
+ {
+  "category_id": "934",
+  "category_name": "VOD | DE - FILME 4K",
+  "parent_id": 0
+ },
+ {
+  "category_id": "929",
+  "category_name": "VOD | DE - NETFLIX",
+  "parent_id": 0
+ },
+ {
+  "category_id": "931",
+  "category_name": "VOD | DE - FAMILIE & KINDER",
+  "parent_id": 0
+ },
+ {
+  "category_id": "937",
+  "category_name": "VOD | DE - ANIME",
+  "parent_id": 0
+ },
+ {
+  "category_id": "920",
+  "category_name": "VOD | DE - DRAMA & ROMANTIK",
+  "parent_id": 0
+ },
+ {
+  "category_id": "935",
+  "category_name": "VOD | DE - KOMÖDIE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "924",
+  "category_name": "VOD | DE - CHRISTMAS",
+  "parent_id": 0
+ },
+ {
+  "category_id": "919",
+  "category_name": "VOD | DE - AKTION & KRIMI",
+  "parent_id": 0
+ },
+ {
+  "category_id": "932",
+  "category_name": "VOD | DE - ABENTEUER",
+  "parent_id": 0
+ },
+ {
+  "category_id": "922",
+  "category_name": "VOD | DE - HORROR & THRILLER",
+  "parent_id": 0
+ },
+ {
+  "category_id": "936",
+  "category_name": "VOD | DE - SCI-FI & FANTASIE",
+  "parent_id": 0
+ },
+ {
+  "category_id": "943",
+  "category_name": "VOD | DE - SUPERHELDEN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "927",
+  "category_name": "VOD | DE - WESTERN",
+  "parent_id": 0
+ },
+ {
+  "category_id": "915",
+  "category_name": "VOD | DE - KLASSIKER",
+  "parent_id": 0
+ },
+ {
+  "category_id": "930",
+  "category_name": "VOD | DE - HISTORY & DOKUMENTARE",
+  "parent_id": 0
+ }
+]
